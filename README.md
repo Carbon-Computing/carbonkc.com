@@ -1,4 +1,4 @@
 # carbonkc.com
 website
 
-1. deployed from [netlify](https://app.netlify.com/teams/carbon-computing/overview)
+1. deployed from [netlify](https://app.netlify.com/sites/nervous-lalande-b6361f/overview)
